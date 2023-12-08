@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**##Screenshots**
+![image](https://github.com/Rabban-Javed/bmi_calc/assets/142721185/85955e21-ac8c-4224-b1a1-5063c4897091)
+![image](https://github.com/Rabban-Javed/bmi_calc/assets/142721185/2768f4ea-0817-41bc-87bc-d3e876f3ed49)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
