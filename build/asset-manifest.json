@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rabban-Javed/bmi_calc.git/static/css/main.74647544.css",
+    "main.js": "/Rabban-Javed/bmi_calc.git/static/js/main.074c965d.js",
+    "static/js/787.3db80c54.chunk.js": "/Rabban-Javed/bmi_calc.git/static/js/787.3db80c54.chunk.js",
+    "index.html": "/Rabban-Javed/bmi_calc.git/index.html",
+    "main.74647544.css.map": "/Rabban-Javed/bmi_calc.git/static/css/main.74647544.css.map",
+    "main.074c965d.js.map": "/Rabban-Javed/bmi_calc.git/static/js/main.074c965d.js.map",
+    "787.3db80c54.chunk.js.map": "/Rabban-Javed/bmi_calc.git/static/js/787.3db80c54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74647544.css",
+    "static/js/main.074c965d.js"
+  ]
+}
